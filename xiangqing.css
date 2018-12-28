@@ -193,11 +193,11 @@ a{
 	height: 100%;
 }
 .cen1 .cleft1{
-	width: 85%;
+	width:1000px;
 	position: relative;
 }
 .cen1 .cenright{
-	width: 14%;
+	width:175px;
 	background: url('img/ww_07.jpg')no-repeat;
 	background-size: cover;
 }
@@ -685,7 +685,7 @@ a{
 	position: relative;
 	left:0px;
 	height:325px;
-	background-color:#f8f7f6;
+	background-color:#fff;;
 }	
 .wordss{
 	position:relative;
